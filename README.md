@@ -29,13 +29,13 @@ Similarly to our code when calculating our number of employees retiring, we want
 
 - Title of emplyees eligible for mentorship program:   
 We can see from the image below, there are not many employees that are eligible for the mentorship program. Especially since we know that Pewlett Hackard is a fairly large company.  
-<img src="Resources/sum_mentorship_eligibility_titles.PNG">  
+<img src="Resources/sum_mentorship_eligibility_title.PNG">  
 
 ## Challenge Summary  
 
 **Summary**  
 Performing an analysis on number of employees retiring and employees eligible for a mentorship program, we are able to help Bobby provide an accurate reports to his Manager on how many positions, as well as the titles of the positions, that will need to be filled. The same also applies to the mentorship program to help up and coming employees who are still working at the company. From our analysis, we calculated a total of 72,461 employees that will be retiring from the company. As well as a total of 1,549 employees that qualify for the mentorship program. We can see that the number of employees retiring are realtively high compared to the number of employees for the mentorship program. I also performed calculations for how many employees are left at the company after removing the wave of retiring employees, as well as duplicates and employees who have already left the company. I arrived at 167,666 employees that will continue to work at Pewlett Hackard (166,117 employees if you subtract the employees mentoring the younger generation). This is about 107 employees per mentor if each employee gets a mentor. I would think that would be overwhelming for the mentors, and would either have to limit how many mentees would each mentor have under them or increase who is eligible to be a mentor in the mentorship program.  
-<img src="Resources/sum_emp_working_titles.PNG">  
+<img src="Resources/sum_emp_working_title.PNG">  
 
 ### Codes Used  
 <img src="Resources/code1.PNG">  
