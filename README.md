@@ -37,7 +37,7 @@ For this analysis, we used pgAdmin to create queries and tables to filter throug
 
 
 ### Codes Used  
-<img src="Resources/Code1.PNG">  
-<img src="Resources/Code2.PNG">  
-<img src="Resources/Code3.PNG">  
-<img src="Resources/Code4.PNG">  
+<img src="Resources/code1.PNG">  
+<img src="Resources/code2.PNG">  
+<img src="Resources/code3.PNG">  
+<img src="Resources/code4.PNG">  
