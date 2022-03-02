@@ -32,7 +32,7 @@ We filtered our data by employees born in 1965, we also had to filter and remove
 We can see from the image below, there are not many employees that are eligible for the mentorship program. Especially since we know that Pewlett Hackard is a fairly large company based on the data provided.  
 <img src="Resources/sum_mentorship_eligibility_title.PNG">  
 
-## Challenge Summary  
+## Conclusion Summary  
 
 **Summary**  
 Perform an analysis on number of employees retiring and employees eligible for a mentorship program, we are able to provide accurate reports on how many positions that will need to be filled, as well as the roles of those positions. The same analysis and results were reported for our analysis on the mentorship program. From our analysis, we calculated a total of 72,461 employees that will be retiring from the company. And a total of 1,549 employees qualify for the mentorship program. We can conclude that the number of employees retiring are realtively high compared to the number of employees for the mentorship program. I calculated 167,666 employees that will continue to work at the company (166,117 employees if you subtract the mentor employees). This is about 107 employees per mentor if each employee gets a mentor. I would think this ratio would be overwhelming for the mentors, and would either have to limit our mentee to mentor ratio or change the eligibility requirements for the mentorship program to increase the number of mentors or decrease the number of mentees.  
