@@ -12,10 +12,10 @@ The purpose of this project is to use queries and tables to build an employee da
 ## Analysis and Results  
 
 **Analysis:**  
+<img src="EmployeeDB.png">  
 For this analysis, we used pgAdmin to create queries and tables to filter through our data to acquire employee information. We filtered and removed people who had been working at the company but have left the company as they were included in the tables provided. Additionally, we filtered and removed employees who have held different or multiple titles through job transfers or promotions (ie engineer vs. senior engineer) to prevent "double counting." From there, we can calculate the total number of employees for each position and the overall total employees that will be retiring.  
 
 Additionally, we refractored our queries to calculate the number of employees who would be eligible to be part of a mentorship program to help train up and coming employees with less experience compared to their senior employees.  
-<img src="EmployeeDB.png"> 
 
 **Results:**  
 - Number of employees retiring:  
